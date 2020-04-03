@@ -1,4 +1,4 @@
 @echo off
 
-call venv\Scripts\activate
-call jupyter notebook
+call venv\Scripts\activate.bat
+jupyter notebook
