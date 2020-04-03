@@ -4,27 +4,23 @@ at AGH University of Science and Technology.
 ---
 ## Launching notebook
 ### 1. Set up environment:
-
+#### Windows:
 ```
- $ ./setup.sh
+setup.bat
+```
+
+#### Linux & MacOS:
+```
+ ./setup.sh
 ```
 
 ### 2. Launch Jupyter Notebook:
+#### Windows:
+```
+run.bat
+```
+
 #### Linux & MacOS:
 ```
- $ ./run.sh
-```
-#### Windows:
-Go to:
-```
-venv/Scripts/
-```
-and run:
-```
-activate
-```
-Open Jupyter Notebook:
-
-```
-$ jupyter notebook
+ ./run.sh
 ```
