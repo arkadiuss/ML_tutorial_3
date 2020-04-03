@@ -2,26 +2,24 @@ This is the repository for third jupyter notebook tutorial from Machine Learning
 at AGH University of Science and Technology.
 
 ---
-
-To set up environment, run:
+## Launching notebook
+### 1. Set up environment:
 
 ```
  $ ./setup.sh
 ```
 
-Then activate venv:
-
+### 2. Launch Jupyter Notebook:
+#### Linux & MacOS:
 ```
-$ . venv/bin/activate
+ $ ./run.sh
 ```
-
-*Note:*
-*To activate venv on windows:*
-*Go to*
+#### Windows:
+Go to:
 ```
 venv/Scripts/
 ```
-*and run*
+and run:
 ```
 activate
 ```
