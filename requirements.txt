@@ -8,3 +8,4 @@ ipykernel
 matplotlib
 mlxtend
 seaborn
+notebook
